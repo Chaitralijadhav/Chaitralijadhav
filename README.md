@@ -1,5 +1,10 @@
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 # 💫 About Me:
 Hi! I'm Chaitrali Jadhav, a B.Tech graduate and aspiring Software Engineer with a strong interest in Full-Stack Development, Software Engineering.<br>I enjoy building practical and user-friendly applications and continuously improving my programming and problem-solving skills. My technical interests include Java, Python, JavaScript, React, SQL, HTML, and CSS.<br><br>🔭 Currently exploring Artificial Intelligence and modern software technologies<br>🌱 Continuously learning and building new projects<br>💻 Interested in Software Development and Full-Stack Development<br>🚀 Open to learning, collaboration, and new opportunities
+
+<img align="right" width="400" alt="Coding animation" src="https://camo.githubusercontent.com/37f3b91a48cf604958dbae0e6cd34c52ac309cd444000a2361abb36df5369148/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966"/>
+
+
 
 
 ## 🌐 Socials:
